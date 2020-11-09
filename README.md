@@ -17,6 +17,7 @@ functions that we use.
 * `survey_responses.txt`: The results of annual class surveys, building up 
 a data set to perform clustering on. I'll post an updated version to Moodle 
 if more results come in. 
-* `clustering_assignment.rmd`: A starting point for the assignment. 
+* `clustering_assignment.rmd`: A starting point for the assignment. Instructions
+for the assignment are in the document. 
 * `washington_survey_data.txt`: Data for the assignment.
 
