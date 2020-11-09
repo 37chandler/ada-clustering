@@ -49,8 +49,10 @@ Timestamp	What's your family or last name?	Distance from where you were born to 
 11/2/2020 18:58:40	Williams	2400	2350	13	No	No	2
 11/2/2020 21:12:19	Danicich	477.6	4.8	5	Yes	Yes	2
 11/3/2020 7:50:52	Fowler	1500	1500	8	No	No	2
-11/3/2020 11:59:47	Hendricks		32.293	5	No	Yes	4
+11/3/2020 11:59:47	Hendricks	32.293	32.293	5	No	Yes	4
 11/3/2020 14:06:10	Anderson	700.4	700.4	5	No	Yes	2
 11/3/2020 16:48:11	Moore	871.1	892.4	8	No	Yes	4
 11/3/2020 16:59:53	Howell	2	60	21	No	No	1
 11/3/2020 18:08:10	Hauer	1650	70	8	No	No	7
+11/5/2020 17:23:28	Gilbert	1578.652	1578.652	2	No	Yes	4
+11/6/2020 19:40:50	Scheibel	202	0	5	Yes	Yes	2
