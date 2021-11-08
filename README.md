@@ -1,13 +1,13 @@
 # ADA Clustering In-Class & Assignment
 
-This repo holds the clustering code that we'll use in class and will
+This repo holds the clustering code that we may explore in class and will
 also be the place you put your clustering assignment. I have included
 code that does clustering both in Python and R. For the assignment
 I recommend you use R, though you're free to use Python. 
 
 This repo includes the following files: 
 
-* `Clustering Surveys.ipynb`: We'll go through this code in class.
+* `Clustering Surveys.ipynb`: We'll go through this code in class if time permits.
 * `Clustering Surveys-Solutions.ipynb`: The solutions to the in-class work. 
 * `clustering_code.py`: Helper functions from "Data Science from Scratch" that
 perform K-means clustering. 
