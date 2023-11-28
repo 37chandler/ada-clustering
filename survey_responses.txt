@@ -39,3 +39,6 @@ Timestamp	What's your family or last name?	Distance from where you were born to 
 11/7/2022 16:06:36	Halderman	1782	1906	5	Yes	Yes	2
 11/7/2022 16:07:50	Bu	6756	6756	12	No	No	2
 11/7/2022 16:13:01	Robertson	2000	2500	7	No	No	3
+11/27/2023 16:42:59	Whattam 	342	344	4	No	No	2
+11/27/2023 17:50:52	Keith	932	952	8	No	Yes	5
+11/27/2023 19:50:48	Thompson	202	202	6	Yes	Yes	2
